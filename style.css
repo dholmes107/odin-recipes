@@ -1,5 +1,5 @@
 div{
-    background-color: red;
+    background-color: rgb(183, 0, 255);
     color: white;
     font-size: 32px;
     text-align: center;
@@ -16,4 +16,10 @@ div{
 .listcenter{
     text-align: center;
     list-style: inside;
+    font-size: 3em;
+    text-decoration: none;
+}
+
+#indexbackground{
+background-color: grey;
 }
